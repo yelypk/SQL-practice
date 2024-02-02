@@ -1,2 +1,2 @@
 # SQL-practice
-phpMyAdmin, MySQL. ITExpert company 
+phpMyAdmin, MySQL
